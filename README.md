@@ -1,2 +1,2 @@
 # cr2032_toaster
-1/2aa to cr2032
+cr2032 to 1/2aa

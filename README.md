@@ -1,4 +1,4 @@
-![gerber preview CR2032 Toast](CR2032 Toaster v1.2.png)
+<img src="docs/CR2032 Toaster v1.2.png" alt="gerber preview CR2032 Toast v1.2" />
 
 # CR2032 Toaster
 
@@ -6,7 +6,7 @@ This is intended to slot in vertically into a 1/2AA battery holder seen on many 
 
 
 
-<img src="docs/discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="zoom: 25%; float: left;" />
+<img src="docs/discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="float: left;" />
 
 Join us in #skunkworks on [Discord](https://discord.gg/GKcvtgU7P9) to help make retro solutions available to all.
 

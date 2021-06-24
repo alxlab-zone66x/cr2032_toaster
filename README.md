@@ -6,9 +6,9 @@ This is intended to slot in vertically into a 1/2AA battery holder seen on many 
 
 
 
-<a rel="Discord Open Retro SCSI #skunkworks" href="https://discord.gg/GKcvtgU7P9"><img src="docs/discordbanner.png" alt="Discord Open Retro SCSI #skunkworks" style="float: left;" /></a>
+<a rel="Discord Open Retro SCSI #skunkworks" href="https://discord.gg/MHvNY38E"><img src="docs/discordbanner.png" alt="Discord Open Retro SCSI #skunkworks" style="float: left;" /></a>
 
-Join us in #skunkworks on [Discord](https://discord.gg/GKcvtgU7P9) to help make retro solutions available to all.
+Join us in #skunkworks on [Discord](https://discord.gg/MHvNY38E) to help make retro solutions available to all.
 
 
 

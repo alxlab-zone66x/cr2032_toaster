@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name snapeda)(type KiCad)(uri ${KIPRJMOD}/snapeda.pretty)(options "")(descr ""))
+  (lib (name "CR2032 Toaster")(type KiCad)(uri "${KIPRJMOD}/CR2032 Toaster.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BAT-HLD-001-THM)(type Legacy)(uri ${KIPRJMOD}/snapeda.pretty/BAT-HLD-001-THM.lib)(options "")(descr ""))
+)

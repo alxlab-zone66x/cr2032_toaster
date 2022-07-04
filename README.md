@@ -20,11 +20,19 @@ There's also two extra through holes to solder wires for other uses.
 
 
 
+## Manufacturing
+
+The release includes the manufacturing files for JLCPCB specifically. If you need to the gerber files, BOM or component pick & place in a different format then you would have to generate them yourself.
+
+The PCB thickness chosen should be at least 1.6mm to provide good contact with the battery holder.
+
+
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+CR2032 Toaster by [Alexandre Marcoux](https://github.com/alxlab-zone66x/cr2032_toaster) licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 
@@ -32,7 +40,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 For more great retro hardware projects and a great community check out:
 
-[<img src="E:\OneDrive\projects\Mac DB-15 to VGA\docs\tinker_different_sat_rev_600.png" alt="Tinker Different" style="float: left;" />](https://tinkerdifferent.com/)
+[<img src="docs/tinker_different_sat_rev_600.png" alt="Tinker Different" style="float: left;" alt="Tinker Different" style="float: left;" />](https://tinkerdifferent.com/)
 
 
 
@@ -44,7 +52,7 @@ For more great retro hardware projects and a great community check out:
 
 Join us in #skunkworks on [Discord](https://discord.gg/GKcvtgU7P9) to help make retro solutions available to all.
 
-[<img src="E:\OneDrive\projects\Mac DB-15 to VGA\docs\discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="float: left;" />](https://discord.gg/GKcvtgU7P9)
+[<img src="docs\discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="float: left;" />](https://discord.gg/GKcvtgU7P9)
 
 
 

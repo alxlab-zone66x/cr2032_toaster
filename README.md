@@ -14,9 +14,17 @@ There's also two extra through holes to solder wires for other uses.
 
 ## Bill of Materials
 
+### v1.0 to v1.3
+
 | Quantity | Product Number  | Datasheet                                                    |
 | :------- | --------------- | ------------------------------------------------------------ |
-| 1        | BAT-HLD-001-THM | https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-001-thm.pdf |
+| 1        | BAT-HLD-001-THM | [datasheet](datasheets/BAT-HLD-001-THM_Linx_Technologies.pdf) |
+
+### v1.3b
+
+| Quantity | Product Number  | Datasheet                                      |
+| :------- | --------------- | ---------------------------------------------- |
+| 1        | BAT-HLD-005-THM | [datasheet](datasheets/BAT-HLD-005-THM_TE.pdf) |
 
 
 

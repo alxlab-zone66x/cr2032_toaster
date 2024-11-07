@@ -26,6 +26,12 @@ There's also two extra through holes to solder wires for other uses.
 | :------- | --------------- | ---------------------------------------------- |
 | 1        | BAT-HLD-005-THM | [datasheet](datasheets/BAT-HLD-005-THM_TE.pdf) |
 
+### v1.3c
+
+| Quantity | Product Number | Datasheet                                                    |
+| :------- | -------------- | ------------------------------------------------------------ |
+| 1        | RK-2014        | [datasheet](datasheets/Reekart_RK-2014_1.png), [datasheet](datasheets/Reekart_RK-2014_2.png) |
+
 
 
 ## Manufacturing

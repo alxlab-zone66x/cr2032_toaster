@@ -32,13 +32,23 @@ There's also two extra through holes to solder wires for other uses.
 | :------- | -------------- | ------------------------------------------------------------ |
 | 1        | RK-2014        | [datasheet](datasheets/Reekart_RK-2014_1.png), [datasheet](datasheets/Reekart_RK-2014_2.png) |
 
+### v1.3d
+
+| Quantity | Product Number | Datasheet                                     |
+| :------- | -------------- | --------------------------------------------- |
+| 1        | MY-2032-08L    | [datasheet](datasheets/MYOUNG_MY-2032-08.pdf) |
+
 
 
 ## Manufacturing
 
+The gerber, bom and component placement files are in the production folder.
+
 The release includes the manufacturing files for JLCPCB specifically. If you need to the gerber files, BOM or component pick & place in a different format then you would have to generate them yourself.
 
 The PCB thickness chosen should be at least 1.6mm to provide good contact with the battery holder.
+
+
 
 
 
